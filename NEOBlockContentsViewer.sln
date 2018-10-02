@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NEOBlockContentsViewer", "NEOBlockContentsViewer\NEOBlockContentsViewer.csproj", "{E66E550C-E831-4E24-B851-E6D22F4F17AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E66E550C-E831-4E24-B851-E6D22F4F17AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66E550C-E831-4E24-B851-E6D22F4F17AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66E550C-E831-4E24-B851-E6D22F4F17AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66E550C-E831-4E24-B851-E6D22F4F17AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B1555E5-36CA-4B28-A453-F329230410AF}
+	EndGlobalSection
+EndGlobal
